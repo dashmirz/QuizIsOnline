@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="OnlineQuizConn-Web.config Connection String" description="OnlineQuizConn Connection String used in web.config by the application to access the database." defaultValue="Data Source=.;Initial Catalog=OnlineQuizSystem;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\dashm\\Desktop\\online-exam-system-asp-mvc-5\\OnlineQuizSystem\\OnlineQuizSystem\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='OnlineQuizConn']/@connectionString" />
+  </parameter>
+</parameters>
